@@ -7,7 +7,6 @@ import time
 # Calculates their age based on the current year.
 # Tells them their age and if they’re a minor (under 18) or an adult.
 
-
 print("========== Welcome The Age Calculator Program ========== ")
 user_birth_year = int(input("Enter Your Birth Year: "))
 
