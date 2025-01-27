@@ -1,1 +1,12 @@
 Hello, Ak!
+
+begin
+
+numeric lenght, width
+
+accept lenght
+accept width
+
+calcaultion = lenght * width 
+
+display "calcaultion"
